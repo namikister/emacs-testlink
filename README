@@ -1,0 +1,34 @@
+   This package contains emacs-testlink, an Emacs interface to testlink
+
+1. Introduction
+
+   TestLink enables easily to create and manage Test cases as well as 
+   organize them into Test plans. These Test plans allow team members
+   to execute Test cases and track test results dynamically, generate
+   reports, trace software requirements, prioritize and assign tasks.
+   Visit the official testlink page for details:
+       http://testlink.sourceforge.net/docs/testLink.php
+
+   emacs-testlink is a simple Emacs interface to testlink.  Its official web page
+   is available at:
+
+       http://github.com/namikister/emacs-testlink
+
+
+2. Requirements
+
+   Server side
+   * testlink
+
+   Client side
+   * xmlrpc
+   * w3m
+
+3. Installation
+
+4. Configuration
+
+5. Acknowledgments
+
+   This package uses testlink. We'd like to address our thanks to testlink
+   development team for their nice work.
